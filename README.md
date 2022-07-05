@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @1Adnderson01
 - 👀 I’m interested in  ganhar dinheiro
 - 🌱 I’m currently learning nada
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on  ?
+- 📫 How to reach me  som  
 
 <!---  
 1Anderson01/1Anderson01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
